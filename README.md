@@ -1,1 +1,1 @@
-# techisingam.ch
+Repository for my website at techisingam.ch
